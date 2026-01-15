@@ -17,7 +17,7 @@
 rule cdc_test_new_rule {
   meta:
     author = "CDC Test"
-    description = "Test rule for CDC - new file scenario"
+    description = "Test rule for CDC - MODIFIED for update test"
     severity = "LOW"
     mitre_attack_tactic = "Discovery"
     mitre_attack_technique = "T1082"
